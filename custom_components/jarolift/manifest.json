@@ -1,9 +1,10 @@
 {
     "domain": "jarolift",
-    "name": "Jarolift integration",
-    "dependencies": [],
-    "codeowners": [],
+    "name": "Jarolift Cover Integration",
+    "version": "1.0.0",
+    "documentation": "https://github.com/kleimj1/hass-jarolift",
     "requirements": [],
-    "iot_class": "assumed_state",
-    "version": "0.0.1"
-  }
+    "dependencies": [],
+    "codeowners": ["@kleimj1"],
+    "config_flow": false
+}
